@@ -1,8 +1,8 @@
 # QR-Code-Generator
 
-### Generates QR Code of String, Character, Integer & Symbol with your selected size.
-### It generates QR by using Google Api.
-### Examples: Github, 007, A, Qr@code etc.
+### --> Generates QR Code of String, Character, Integer & Symbol with your selected size.
+### --> It generates QR by using Google Api.
+### --> Examples: Github, 007, A, Qr@code etc.
 ---
 
 ## Screenshots
